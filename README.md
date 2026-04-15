@@ -7,7 +7,7 @@
 ---
 
 ## 🚀 About Me
-<img height="250" width="250" alt="Developer" align="right" src="https://raw.githubusercontent.com/Sujal-0803/Sujal-0803/main/3D%20Isometric%20Animated%20Pack%20-%20Illustrations.gif">
+<img height="250" width="250" alt="Developer" align="right" src="https://raw.githubusercontent.com/Sujal-0803/Sujal-0803/main/animation.gif">
 
 - 🎓 **Electronics & Telecommunication Engineering Graduate**
 - 💻 Passionate about creating responsive, user-centric web applications.
