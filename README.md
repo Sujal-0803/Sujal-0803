@@ -15,7 +15,7 @@
 - 🔥 Enthusiastic technologist constantly exploring new frameworks and patterns.
 - 🌱 Currently mastering advanced React patterns and Next.js optimization.
 
-> "Transforming complex problems into elegant solutions through clean code and intuitive design."
+> "Great code isn’t written in one go. It’s refined through mistakes, curiosity, and consistency."
 
 ---
 
@@ -137,4 +137,4 @@ Here's a summary of my technical skills, organized by category.
 
 ---
 
-> "Great code isn’t written in one go. It’s refined through mistakes, curiosity, and consistency."
+> "Transforming complex problems into elegant solutions through clean code and intuitive design."
