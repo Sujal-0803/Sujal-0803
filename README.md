@@ -49,7 +49,7 @@ Here's a summary of my technical skills, organized by category.
         <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
         <br>
         <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="WordPress"/>
-        <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=ajax&logoColor=white" alt="AJAX"/>
+        <img src="https://img.shields.io/badge/AJAX-005571?style=for-the-badge&logo=javascript&logoColor=white" alt="AJAX"/>
       </p>
     </td>
   </tr>
