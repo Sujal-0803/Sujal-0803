@@ -128,7 +128,6 @@ Here's a summary of my technical skills, organized by category.
 
 ## 📊 Development Activity
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sujal-0803&show_icons=true&theme=tokyonight" alt="GitHub Stats" width="45%"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Sujal-0803&layout=compact&theme=tokyonight" alt="Top Languages" width="45%"/>
 </div>
 <br>
