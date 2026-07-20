@@ -110,7 +110,7 @@ Here's a summary of my technical skills, organized by category.
 
 ## 🌐 Connect With Me
 <p align="center">
-  <a href="https://sujal-0803.github.io/SUJAL-PORTFOLIO/" target="_blank">
+  <a href="https://sujal-0803.github.io/sm-portfolio/" target="_blank">
     <img src="https://img.icons8.com/fluency/48/8a2be2/portfolio.png" alt="Portfolio" title="Portfolio"/>
   </a>
   <a href="https://www.linkedin.com/in/sujalmaru0803/" target="_blank">
